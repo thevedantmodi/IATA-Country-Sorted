@@ -1,4 +1,4 @@
-#IATA-country-sorted
+# IATA-country-sorted
 
 This is the output from [IATA Country
 Sorter](https://github.com/thevedantmodi/IATACountrySorter) and follows these guidelines:
